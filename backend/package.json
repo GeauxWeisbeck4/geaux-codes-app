@@ -1,0 +1,25 @@
+{
+  "name": "mern-stack-tutorial-issue3",
+  "version": "1.0.0",
+  "description": "A tutorial application made with the MERN stack",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GeauxWeisbeck4/MERN-stack-Tutorial-Issue3.git"
+  },
+  "keywords": [
+    "mern",
+    "stack"
+  ],
+  "author": "Andrew Weisbeck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GeauxWeisbeck4/MERN-stack-Tutorial-Issue3/issues"
+  },
+  "homepage": "https://github.com/GeauxWeisbeck4/MERN-stack-Tutorial-Issue3#readme"
+}
